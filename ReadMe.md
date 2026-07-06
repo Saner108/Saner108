@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working on an AI-assisted meal planning app<br>🌱 I'm currently learning about security for vibe-coded apps<br>👯 I'm looking to collaborate on AI-powered health, fitness, or nutrition projects<br>🤔 I'm looking for help with vibe coding (AI-assisted development)<br>💬 Ask me about nutrition, personal training, or coding with AI<br>⚡ Fun fact: I'm a certified personal trainer and nutrition coach building my own AI app
+I'm building AI-powered applications and exploring new technologies along the way. Right now, my focus is on turning ideas into real projects while growing as a developer.
+
+* Currently building an AI-powered meal planning app.
+* Learning more about full-stack development, AI workflows, and application security.
+* Interested in building tools that solve real-world problems with AI and data.
 
 
 ## 🌐 Socials:
