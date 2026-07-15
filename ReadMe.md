@@ -1,9 +1,10 @@
 # 💫 About Me:
 I'm building AI-powered applications and exploring new technologies along the way. Right now, my focus is on turning ideas into real projects while growing as a developer.
 
-* Currently building an AI-powered meal planning app.
+* Currently building an AI-powered meal planning app & a Portfolio Website.
 * Learning more about full-stack development, AI workflows, and application security.
 * Interested in building tools that solve real-world problems with AI and data.
+* Working on building Projects I can put under my resume
 
 
 ## 🌐 Socials:
