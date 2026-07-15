@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm a full-stack developer and AI entrepreneur building intelligent applications that solve real-world problems. I'm passionate about leveraging AI, modern design, and clean code to create impactful digital experiences.
+Business Analytics & Finance Student | Building AI-powered applications, financial models, and data-driven solutions with Python, React, SQL, and modern AI.
 
 * **Currently:** Building and scaling an AI-powered meal planning app through my own venture
 * **Learning:** Full-stack development, UI/UX design engineering, website layout optimization, and AI workflow architecture
