@@ -32,12 +32,6 @@ JavaScript · TypeScript · Python · React · Tailwind · PostgreSQL · Firebas
 
 ---
 
-## Stats & quick links
-[![Saner108’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Saner108&show_icons=true&theme=dark&count_private=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saner108&layout=compact&theme=dark)]
-
----
-
 ## Contact
 - Portfolio: https://personal-brand-six-coral.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/csanchez65/
