@@ -24,36 +24,6 @@ JavaScript · TypeScript · Python · React · Tailwind · PostgreSQL · Firebas
 
 ---
 
-## Featured projects
-
-- **NorthStar-Enterprise-Analytics** — enterprise dashboards and JS visuals
-  - Interactive dashboards combining JavaScript visuals with Python-based data insights for analytics and executive reporting
-  - Tech: JavaScript / HTML · Python analytics
-  - Live: https://north-star-enterprise-analytics.vercel.app
-  - Repo: https://github.com/Saner108/NorthStar-Enterprise-Analytics
-
-- **nutricook-ai** — personal AI app demo
-  - A small, polished AI-driven app showcasing integration and frontend UX
-  - Tech: TypeScript · deployed on Vercel
-  - Live: https://nutricook-ai-kappa.vercel.app
-  - Repo: https://github.com/Saner108/nutricook-ai
-
-- **Personal-Portfolio** — personal site and brand
-  - Portfolio showcasing projects, experience, and contact info
-  - Tech: JavaScript · deployed on Vercel
-  - Live: https://personal-brand-six-coral.vercel.app/
-  - Repo: https://github.com/Saner108/Personal-Portfolio
-
-- **Excel-Business-Analytics-Portfolio** — Excel and analytics examples
-  - A portfolio of Excel and business analytics work for data storytelling and analysis
-  - Repo: https://github.com/Saner108/Excel-Business-Analytics-Portfolio
-
-- **Python-Projects** — class and learning projects
-  - Assorted Python assignments and learning projects used for coursework and quick experiments
-  - Repo: https://github.com/Saner108/Python-Projects
-
----
-
 ## Skills & focus areas
 - Frontend: component-driven UI, accessibility, performance tuning
 - Backend & APIs: Node.js, Python, auth, schema design
@@ -69,7 +39,6 @@ JavaScript · TypeScript · Python · React · Tailwind · PostgreSQL · Firebas
 ---
 
 ## Contact
-- GitHub: https://github.com/Saner108
 - Portfolio: https://personal-brand-six-coral.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/csanchez65/
 - Email: mailto:sanchezcesar106@gmail.com
