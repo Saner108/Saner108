@@ -1,7 +1,7 @@
 # Saner108
-Full‑stack software engineer • AI & analytics enthusiast • Open-source contributor
+AI & analytics enthusiast • Open-source contributor
 
-I build practical web apps, AI integrations, and data-driven dashboards — shipped with strong focus on developer experience, reliability, and clear documentation.
+I build practical web apps, AI integrations, and data-driven dashboards — shipped with a strong focus on developer experience, reliability, and clear documentation.
 
 ---
 
@@ -20,21 +20,11 @@ I build practical web apps, AI integrations, and data-driven dashboards — ship
 ---
 
 ## Current tech stack (short)
-JavaScript · TypeScript · Python · React · Next.js · Tailwind · Node.js · PostgreSQL · Firebase · Docker · GitHub Actions
+JavaScript · TypeScript · Python · React · Tailwind · PostgreSQL · Firebase · GitHub Actions
 
 ---
 
 ## Featured projects
-
-- graphify — AI coding assistant & knowledge graph
-  - Turn code folders, SQL schemas, scripts, docs, and media into a queryable knowledge graph that powers AI code/knowledge workflows (supports Claude/Codex/Gemini & CLI integrations).
-  - Tech: Python · app + schema + infra
-  - Live / Repo: https://www.graphify.com · https://github.com/Saner108/graphify
-
-- n8n (fork) — workflow automation with AI integrations
-  - Fair-code automation platform with visual workflow builder and 400+ integrations. This repository is a fork/experiment for custom deployments and integrations.
-  - Tech: TypeScript · integrations · automations
-  - Upstream: https://n8n.io · Repo: https://github.com/Saner108/n8n
 
 - NorthStar-Enterprise-Analytics — enterprise dashboards & JS visuals
   - Interactive dashboards combining JavaScript visuals with Python-based data insights for analytics use-cases and executive reporting.
@@ -61,13 +51,6 @@ JavaScript · TypeScript · Python · React · Next.js · Tailwind · Node.js ·
 
 ---
 
-## Work & impact
-(Replace with your roles and measurable outcomes)
-- Title — Company (YYYY – Present): Short, high-impact bullet (e.g., “improved dashboard performance by 40%”)
-- Title — Company (YYYY – YYYY): Short achievement or responsibility
-
----
-
 ## Skills & focus areas
 - Frontend: component-driven UI, accessibility, performance tuning
 - Backend & APIs: Node.js, Python, auth, schema design
@@ -87,15 +70,3 @@ JavaScript · TypeScript · Python · React · Next.js · Tailwind · Node.js ·
 - Portfolio / Live site: https://personal-brand-six-coral.vercel.app
 - Email: you@yourdomain.com (replace)
 - Twitter / LinkedIn: add links if you want them shown
-
----
-
-If you want me to finish this for you, pick one of the options below.
-
-### Want me to…
-<!-- copilot:suggestions -->
-1. Hand this change off to the coding agent to open a pull request (I will create the PR with the README on branch add-profile-readme).
-2. I will create the README.md and open the PR for you now if you re-authorize/allow the automated session (retry the automated handoff).
-3. Walk you step-by-step while you create the PR (I’ll provide the exact clicks/commands and review the PR once it’s open).
-
-Which option do you want me to take?
