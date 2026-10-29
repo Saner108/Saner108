@@ -1,94 +1,24 @@
-# Hi, I'm Cesar Sanchez 👋
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=saner108&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205388864%3Fu%3Dbe3f911fb9a355b0efaed00d5ef5672cc7ec2e78%26v%3D4" alt="saner108 hero visual" />
+</p>
 
-### Data Analytics | Business Intelligence | Data Engineering
+<p align="center"><b>Cesar Sanchez</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
-I'm a business analytics and finance professional focused on turning complex data into reliable, actionable insights.
+<p align="center"><a href="https://github.com/saner108">GitHub</a></p>
 
-My interests span the full data lifecycle — from database design, data preparation, and automated workflows to SQL analysis, financial modeling, and interactive dashboards.
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-I enjoy building practical solutions that connect technical implementation with real business decisions.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=saner108&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205388864%3Fu%3Dbe3f911fb9a355b0efaed00d5ef5672cc7ec2e78%26v%3D4" alt="saner108 projects visual" />
+</p>
 
-**[Portfolio Website](https://personal-brand-six-coral.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/csanchez65/)** · **[Email](mailto:sanchezcesar106@gmail.com)**
+- [Personal-Portfolio](https://github.com/Saner108/Personal-Portfolio) · ★ 0 — Personal Porfolio Website about me
+- [slp-inventory-demo](https://github.com/Saner108/slp-inventory-demo) · ★ 0 — Student demo of sample event-equipment inventory organized into categories, models, and individual i
+- [waveware-access-demo](https://github.com/Saner108/waveware-access-demo) · ★ 0 — Near-final representative Microsoft Access animal diet database demo; employee names replaced.
+- [nutricook-ai](https://github.com/Saner108/nutricook-ai) · ★ 0 — Personal AI App
+- [Excel-Business-Analytics-Portfolio](https://github.com/Saner108/Excel-Business-Analytics-Portfolio) · ★ 0 — Personal Projects I have worked on 
+- [NorthStar-Enterprise-Analytics](https://github.com/Saner108/NorthStar-Enterprise-Analytics) · ★ 0 — Enterprise analytics dashboards with JavaScript visuals and Python data insights
 
----
-
-## About Me
-
-- 📊 **Analytics:** Exploring business performance, financial data, and operational efficiency through data analysis and visualization.
-- 🗄️ **Data Engineering:** Developing skills in relational database design, data modeling, pipeline development, and data validation.
-- 🐍 **Programming:** Using Python and SQL to organize, transform, validate, and analyze data.
-- 💼 **Business Perspective:** Applying finance and business analytics knowledge to solve operational and strategic problems.
-- 🎯 **Career Focus:** Pursuing opportunities in data analytics, business intelligence, and entry-level data engineering.
-
-## Technical Skills
-
-| Area | Technologies & Concepts |
-|---|---|
-| Data Analysis | SQL, Python, Excel, KPI Analysis |
-| Databases | Relational Databases, PostgreSQL, SQLite, Data Modeling |
-| Data Engineering | ETL Concepts, Data Pipelines, Data Validation, Data Quality |
-| Business Intelligence | Dashboard Development, Data Visualization, Reporting |
-| Finance & Operations | Financial Modeling, Forecasting, Inventory Analysis |
-| Development Tools | Git, GitHub, JavaScript, React |
-
-## Featured Projects
-
-### 1. NorthStar Enterprise Analytics
-
-**SQL · Python · Dimensional Modeling · Business Intelligence**
-
-An end-to-end retail inventory analytics pilot using synthetic data to investigate stock availability, distribution inefficiencies, and estimated financial impact.
-
-**Highlights:**
-- Designed a dimensional data model with separate sales and inventory fact tables.
-- Built a reproducible Python and SQL workflow processing approximately 1.6 million synthetic records.
-- Implemented 17 automated data integrity and validation checks.
-- Developed business KPIs and an executive-facing dashboard.
-- Identified distribution-related stockouts and estimated lost margin within the simulated retail environment.
-
-**[View Repository](https://github.com/Saner108/NorthStar-Enterprise-Analytics)** · **[Explore Dashboard](https://north-star-enterprise-analytics.vercel.app)**
-
-### 2. Excel Business Analytics Portfolio
-
-**Microsoft Excel · Financial Modeling · Business Analysis**
-
-A collection of spreadsheet projects focused on financial decisions, budgeting, and inventory management.
-
-**Highlights:**
-- Financial modeling using NPV, IRR, and discounted cash flow.
-- Budget tracking with monthly and annual reporting.
-- Inventory variance analysis and structured tracking systems.
-- Data validation, formulas, and dashboard development.
-
-**[View Repository](https://github.com/Saner108/Excel-Business-Analytics-Portfolio)**
-
-### 3. Personal Portfolio Website
-
-**React · JavaScript · Tailwind CSS · Vite**
-
-A responsive personal website showcasing analytics, finance, and software projects.
-
-**Highlights:**
-- Built a project-focused portfolio with responsive layouts.
-- Organized project descriptions around business problems, technical methods, and value.
-- Integrated professional experience, skills, and contact information.
-
-**[View Repository](https://github.com/Saner108/Personal-Portfolio)** · **[Visit Website](https://personal-brand-six-coral.vercel.app/)**
-
----
-
-## Currently Exploring
-
-- Advanced SQL and query optimization
-- Database architecture and performance
-- ETL/ELT workflows and data pipeline design
-- Data warehousing and dimensional modeling
-- Python automation and data quality testing
-- Business intelligence and analytics engineering
-
-## Let's Connect
-
-I'm interested in opportunities where I can combine analytical thinking, technical problem-solving, and business knowledge to build useful data solutions.
-
-**[LinkedIn](https://www.linkedin.com/in/csanchez65/)** · **[Portfolio](https://personal-brand-six-coral.vercel.app/)** · **[GitHub](https://github.com/Saner108)**
-
+</details>
