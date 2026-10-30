@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="banner-title banner-description">
+  <title id="banner-title">From curiosity to clarity</title>
+  <desc id="banner-description">A dark geometric banner with teal and lavender accents. Decorative database, chart, grid, and connection symbols frame a centered message about curiosity and clarity. No real metrics are represented.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1726"/>
+      <stop offset="1" stop-color="#131c2d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60e1cf"/>
+      <stop offset="1" stop-color="#a7a9ff"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8496b0" stroke-opacity="0.09"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="338" rx="20" fill="url(#background)" stroke="#33445d" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="336" rx="19" fill="url(#grid)"/>
+  <circle cx="54" cy="58" r="117" fill="none" stroke="#60e1cf" stroke-opacity="0.13" stroke-width="2"/>
+  <circle cx="1158" cy="295" r="153" fill="none" stroke="#a7a9ff" stroke-opacity="0.15" stroke-width="2"/>
+  <circle cx="1158" cy="295" r="118" fill="none" stroke="#a7a9ff" stroke-opacity="0.1" stroke-width="2"/>
+  <g fill="#60e1cf" opacity="0.45">
+    <circle cx="82" cy="270" r="3"/><circle cx="100" cy="270" r="3"/><circle cx="118" cy="270" r="3"/>
+    <circle cx="82" cy="288" r="3"/><circle cx="100" cy="288" r="3"/><circle cx="118" cy="288" r="3"/>
+    <circle cx="82" cy="306" r="3"/><circle cx="100" cy="306" r="3"/><circle cx="118" cy="306" r="3"/>
+  </g>
+  <g fill="#a7a9ff" opacity="0.45">
+    <circle cx="1082" cy="42" r="3"/><circle cx="1100" cy="42" r="3"/><circle cx="1118" cy="42" r="3"/>
+    <circle cx="1082" cy="60" r="3"/><circle cx="1100" cy="60" r="3"/><circle cx="1118" cy="60" r="3"/>
+  </g>
+  <g transform="translate(74 126)" fill="none" stroke="#60e1cf" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="46" cy="12" rx="37" ry="12"/>
+    <path d="M9 12v62c0 7 17 12 37 12s37-5 37-12V12M9 33c0 7 17 12 37 12s37-5 37-12M9 54c0 7 17 12 37 12s37-5 37-12"/>
+  </g>
+  <path d="M169 170h75m712 0h70" fill="none" stroke="#60748e" stroke-width="2" stroke-dasharray="5 9"/>
+  <circle cx="244" cy="170" r="4" fill="#60e1cf"/>
+  <circle cx="956" cy="170" r="4" fill="#a7a9ff"/>
+  <g transform="translate(1040 124)" fill="none" stroke="#a7a9ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 0v88h88"/>
+    <path d="M17 69V49h13v20m13 0V30h13v39m13 0V8h13v61"/>
+    <path d="m10 35 24-13 24 4L85 0" stroke="#60e1cf"/>
+  </g>
+  <text x="600" y="94" fill="#b6c7dd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" letter-spacing="4" text-anchor="middle">FINANCE / ANALYTICS / SYSTEMS</text>
+  <text x="600" y="183" fill="#f2f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-2" text-anchor="middle">From curiosity to clarity.</text>
+  <rect x="412" y="212" width="376" height="4" rx="2" fill="url(#accent)"/>
+  <text x="600" y="263" fill="#b6c7dd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="27" text-anchor="middle">Business questions. Thoughtful tools. Useful next steps.</text>
+</svg>
