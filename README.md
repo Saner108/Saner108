@@ -14,8 +14,6 @@ Connecting finance, data, and practical tools to make the next decision clearer.
 
 ## A little about me
 
-I'm pursuing dual BBAs in **Finance** and **Business Analytics & Information Systems** at **Texas A&M University–Corpus Christi**, with graduation expected in **Spring 2027**.
-
 I like taking something messy—a spreadsheet, an inventory list, or a business question—and giving it structure. What draws me to analytics is the connection between understanding the numbers and explaining what someone can do with them. I'm building that foundation through financial models, SQL and Python projects, databases, and dashboards.
 
 Fitness and nutrition are also a big part of my story. My past coaching and campus-program work involved helping people build sustainable habits, organizing wellness activities, and training a small team to work independently. That people-first perspective is part of why I enjoy building practical tools like **NutriCook**.
