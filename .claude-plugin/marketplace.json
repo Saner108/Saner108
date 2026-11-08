@@ -1,7 +1,0 @@
-{
-  "name": "saner108",
-  "owner": { "name": "Cesar Sanchez" },
-  "plugins": [
-    { "name": "agent-board", "source": "./plugins/agent-board", "description": "Pane showing what each agent and tool is doing, opened every session" }
-  ]
-}

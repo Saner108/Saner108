@@ -1,1 +1,0 @@
-{ "name": "agent-board", "version": "0.1.0", "description": "Opens every session: one pane showing what each agent and tool is doing", "types": "./types/index.d.ts" }
