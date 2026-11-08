@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "saner108": {
+      "source": { "source": "github", "repo": "saner108/Saner108" }
+    }
+  },
+  "enabledPlugins": {
+    "agent-board@saner108": true
+  }
+}
